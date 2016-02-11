@@ -14,5 +14,6 @@ gem 'pg', group: :production
 gem 'carrierwave', github: 'carrierwaveuploader/carrierwave' 
 gem "fog-aws"
 gem "figaro"
+gem "mini_magick"
 
 ruby "2.2.1"
